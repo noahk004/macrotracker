@@ -11,10 +11,7 @@ if __name__ == '__main__':
 
     ENVIRONMENT = os.getenv('MACROTRACKER_ENVIRONMENT')
 
-    db_path = 'macrotracker_test.db'
-
-    if ENVIRONMENT == 'PRODUCTION':
-        db_path = 'macrotracker.db'
+    db_path = 'macrotracker.db'
 
     db = DB(Path.cwd() / db_path)
 

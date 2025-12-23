@@ -2,3 +2,6 @@
 __pycache__/
 .venv/
 macrotracker_test.db
+main.spec
+build/
+dist/
