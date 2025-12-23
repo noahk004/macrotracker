@@ -1,6 +1,12 @@
 # Macrotracker
 
-An application that tracks your food items and calculates their macros.
+An application that tracks your daily caloric intake and protein content.
+
+## Macronutrient Tracker
+
+Track and manage your food records for the day.
+
+<img width="733" height="501" alt="image" src="https://github.com/user-attachments/assets/475a247a-5806-40ca-b0c8-49385e50755a" />
 
 ## Food Item Management
 
